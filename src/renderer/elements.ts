@@ -25,7 +25,7 @@ const Elements = {
   },
   get OpenInDefaultApplicationButton() {
     return document.getElementById(
-      'open-in-default-application',
+      'open-in-default-application'
     ) as HTMLButtonElement;
   },
 };
